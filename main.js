@@ -22,7 +22,7 @@ function add() {
 
 
 function uploadBackground() {
-	ctx.drawImage(background_imagetag,0,0,canvas.width,canvas.greencar_height);
+	ctx.drawImage(background_imagetag,0,0,canvas.width,canvas.height);
 	//Define function ‘uploadBackground’
 
 }
